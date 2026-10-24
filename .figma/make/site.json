@@ -1,0 +1,10 @@
+{
+  "description": "An accessibility-focused sound awareness app for deaf and hard-of-hearing users, with clear alerts, sound teaching, and detection history.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
